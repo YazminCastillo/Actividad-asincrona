@@ -257,3 +257,4 @@ document.write('La recaudación por entradas para menores es: ' + recaudacionMen
 document.write('<br>');
 document.write('La recaudación total es: ' + recaudacionTotal(entradasGenerales, entradasMayores, entradasMenores));
 
+document.write("Este es un mensaje nuevo");
